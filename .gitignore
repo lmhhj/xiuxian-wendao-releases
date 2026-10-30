@@ -1,0 +1,9 @@
+# 安装包保留本地，通过 GitHub Release 附件分发。
+packages/
+.DS_Store
+__pycache__/
+*.pyc
+
+# 本地发布维护资料，不放入公开仓库。
+/tools/
+/发布指南.md

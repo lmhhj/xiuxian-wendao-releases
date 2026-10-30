@@ -1,0 +1,27 @@
+{
+  "name": "修仙问道",
+  "version": "1.3.2+6",
+  "tag": "v1.3.2",
+  "prepared_at": "2026-10-30",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "changes": [
+    "移除道我和连接弹层的服务器地址展示",
+    "补偿文案改为当前角色每版一次，重建可重新领取；沿用原接口"
+  ],
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签"
+  },
+  "artifacts": [
+    {
+      "file": "xiuxian-wendao-1.3.2+6-android-arm64.apk",
+      "bytes": 28580785,
+      "sha256": "1e8808b60182401262948ec166d77853520a9a57a2a54d468cbcbf1bdf19dd30"
+    },
+    {
+      "file": "xiuxian-wendao-1.3.2+6-ios-unsigned.ipa",
+      "bytes": 16809927,
+      "sha256": "65b69260c6f847bc51e1a6178638438ee2770784ad411f9e7e4b6bf0cece3bf0"
+    }
+  ]
+}
