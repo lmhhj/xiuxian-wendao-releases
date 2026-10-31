@@ -1,0 +1,39 @@
+{
+  "name": "修仙问道",
+  "version": "1.4.2+9",
+  "tag": "v1.4.2",
+  "prepared_at": "2026-10-31",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "changes": [
+    "修复Mac登录后“无法读取待确认操作记录”导致洞府无法载入的问题。",
+    "保留已保存的待确认操作，沿用原编号核对，避免重复执行与结算。",
+    "Android、iOS、macOS统一版本1.4.2+9。"
+  ],
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签",
+    "macos": "macOS 12+ / Universal（Apple Silicon和Intel）/ 本地临时签名，未公证"
+  },
+  "artifacts": [
+    {
+      "file": "xiuxian-wendao-1.4.2+9-android-arm64.apk",
+      "bytes": 28712293,
+      "sha256": "e6d79b6c236040d3bd6cdd05c23a40bb910a292c20455fb6a7fc76c8c38177ba"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.2+9-ios-unsigned.ipa",
+      "bytes": 16857651,
+      "sha256": "e9a14d2e097c8de63f55c16c130cd58e27fd3432d4655bc9e1fcbf1d9cad7ff4"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.2+9-macos-universal.dmg",
+      "bytes": 31564135,
+      "sha256": "b8e849d8b05716e6bc631596bbb0b6621631b17cb42121dcf8981ed38535f2f8"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.2+9-macos-universal.zip",
+      "bytes": 28599417,
+      "sha256": "7f3484c7d8d3ab38136784b8320ab1e1ea16894cd7293b4ce8b4b843a637d538"
+    }
+  ]
+}
