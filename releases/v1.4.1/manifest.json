@@ -5,6 +5,7 @@
   "prepared_at": "2026-10-31",
   "bundle_id": "com.lmhhj.xiuxianwendao",
   "changes": [
+    "新增macOS版：桌面侧栏、原生玻璃与键盘快捷键，账号和云端进度与手机端通用。",
     "新增App版本检查：版本过旧时提示更新，可前往GitHub下载新版。",
     "升级时保留登录状态、云端角色和待确认操作，避免重复执行。",
     "新增初始灵根选择：额外20次刷新，可提前确认，最后一次自动进入世界。",
@@ -15,7 +16,8 @@
   ],
   "platforms": {
     "android": "Android 7.0+ / arm64",
-    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签"
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签",
+    "macos": "macOS 12+ / Universal（Apple Silicon和Intel）/ 本地临时签名，未公证"
   },
   "artifacts": [
     {
@@ -27,6 +29,16 @@
       "file": "xiuxian-wendao-1.4.1+8-ios-unsigned.ipa",
       "bytes": 16849617,
       "sha256": "8aa6b6129567cbf3baffff940bb992bfc16b278eea32605822388906ea28f6f7"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.1+8-macos-universal.dmg",
+      "bytes": 31553806,
+      "sha256": "43f206c1934c2374418ce7f5ec79104ff32be62cf60e4189984830821dcb7eeb"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.1+8-macos-universal.zip",
+      "bytes": 28592730,
+      "sha256": "9cc684daeeffcf6132fbfecdb8c9fde4a82364f5bb2a2137b44083cde39f730e"
     }
   ]
 }
