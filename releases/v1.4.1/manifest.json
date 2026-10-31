@@ -1,0 +1,32 @@
+{
+  "name": "修仙问道",
+  "version": "1.4.1+8",
+  "tag": "v1.4.1",
+  "prepared_at": "2026-10-31",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "changes": [
+    "新增App版本检查：版本过旧时提示更新，可前往GitHub下载新版。",
+    "升级时保留登录状态、云端角色和待确认操作，避免重复执行。",
+    "新增初始灵根选择：额外20次刷新，可提前确认，最后一次自动进入世界。",
+    "五灵根入世自动补助1000灵石，增加资格与到账提示。",
+    "每个账号仅能创建一个角色，移除删除与重建入口。",
+    "仙市按每件物品的官方单价限制交易，超价挂单无法购买但可撤回。",
+    "开服补偿活动结束；优化注册等待提示和断网恢复。"
+  ],
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签"
+  },
+  "artifacts": [
+    {
+      "file": "xiuxian-wendao-1.4.1+8-android-arm64.apk",
+      "bytes": 28712293,
+      "sha256": "48b1248b5b28178343e39e1f5a314932161a8bf7f8fd035ebf0a4c72f132c719"
+    },
+    {
+      "file": "xiuxian-wendao-1.4.1+8-ios-unsigned.ipa",
+      "bytes": 16849617,
+      "sha256": "8aa6b6129567cbf3baffff940bb992bfc16b278eea32605822388906ea28f6f7"
+    }
+  ]
+}
