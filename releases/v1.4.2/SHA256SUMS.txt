@@ -1,0 +1,2 @@
+75ea18a90771d4e0ecf6872af674a105d5814b82b2692e82b5a27f4fe2625051  xiuxian-wendao-1.4.2+9-android-arm64.apk
+0a406b3c9675f9ee1c94fff25bee7c1d1bddb0281d7d7e1eeca9ae05ee54f075  xiuxian-wendao-1.4.2+9-ios-unsigned.ipa
