@@ -1,0 +1,60 @@
+{
+  "name": "修仙问道",
+  "version": "1.4.2+10",
+  "app_build": 10,
+  "tag": "v1.4.2+10",
+  "prepared_at": "2026-11-03",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签",
+    "macos": "macOS 12+ / Intel与Apple Silicon通用 / 临时签名，未公证",
+    "windows": "Windows 10 1809+、Windows 11 / x64 / 未配置代码签名"
+  },
+  "changes": [
+    "新增炼器阁，查看兵器淬炼阶数、真实材料需求和额外战力，换装保留角色淬炼进度。",
+    "宗门宝库新增商品简介与效果详情，按实际报价展示贡献和优惠。",
+    "新增双人协作秘境，邀请道友组队、查看进度并独立领取本人的奖励。",
+    "宗门新增材料悬赏，分别显示材料补偿、额外奖金、实际灵石总额和宗门贡献。",
+    "首页和道友资料补充兵器淬炼信息，新增六种炼器材料专属图标。",
+    "四端同步既有洞府装扮、人物加成、突破演出、背景音乐、药园与炼丹修复。"
+  ],
+  "artifacts": [
+    {
+      "platform": "android",
+      "file": "xiuxian-wendao-1.4.2+10-android-arm64.apk",
+      "bytes": 35345911,
+      "sha256": "3c1e11071a7d1d5cf5d8268b2fd103d8eed0963137ca70e2ffcc0307009798f1"
+    },
+    {
+      "platform": "ios",
+      "file": "xiuxian-wendao-1.4.2+10-ios-unsigned.ipa",
+      "bytes": 22624339,
+      "sha256": "019300c215e584ae1c1ba53e339c3724fbee9651caab98dbff08528032719159"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.2+10-macos-universal.dmg",
+      "bytes": 37486361,
+      "sha256": "0246b3cae97ac453a78bf9b0fa1070412cf6ce3bf77e0453f926820d93e6707c"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.2+10-macos-universal.zip",
+      "bytes": 34500324,
+      "sha256": "6c5443813f68adc32b4a710433f75b109a2d1561bbc220fd01dea703a908a0ab"
+    },
+    {
+      "platform": "windows",
+      "file": "xiuxian-wendao-1.4.2+10-windows-x64-portable.zip",
+      "bytes": 28664620,
+      "sha256": "15beffc15feaa3184c16f520f40b725b5c024d87b86cffa17ab30b40cc58e712"
+    },
+    {
+      "platform": "windows",
+      "file": "xiuxian-wendao-1.4.2+10-windows-x64-setup.exe",
+      "bytes": 26117515,
+      "sha256": "714e6e57e95644252e9afa6b2e547503ec7a644e9ca6bf6756555efc271e040c"
+    }
+  ]
+}
