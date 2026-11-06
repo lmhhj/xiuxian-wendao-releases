@@ -32,3 +32,5 @@ Android 打开 APK 安装。Mac 将应用拖入“应用程序”；当前未公
 完整内容见[版本说明](releases/v1.4.4+13/RELEASE_NOTES.md)。
 
 更新前先退出旧版，安装后使用原账号登录。Android 覆盖更新需使用相同签名，iOS 更新仍需签名。版本过旧时，游戏会提供更新提示和下载入口。
+可以加入以下群聊交流；
+<img width="939" height="1455" alt="bc4e34a893310a9421e28a80ef54778e" src="https://github.com/user-attachments/assets/f768983d-b4b2-45a2-b51b-60a0e985fd5b" />
