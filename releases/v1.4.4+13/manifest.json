@@ -1,0 +1,55 @@
+{
+  "name": "修仙问道",
+  "version": "1.4.4+13",
+  "app_build": 13,
+  "tag": "v1.4.4+13",
+  "prepared_at": "2026-11-06",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 未签名，安装前需重签",
+    "macos": "macOS 12+ / Intel与Apple Silicon通用 / 临时签名，未公证",
+    "windows": "Windows 10 1809+、Windows 11 / x64 / 便携ZIP / 未配置代码签名"
+  },
+  "changes": [
+    "适配新仙界服务器，支持验证并延续原账号登录状态。",
+    "减少仙市、药园、宗门等页面的重复自动读取，降低长时间在线时的数据传输。",
+    "洞府首页复用近期宗门简介，修为变化不再反复拉取完整宗门资料；离开首页后停止简介读取。",
+    "改善网络连接复用，减少频繁重新建立连接带来的等待。",
+    "药材生长倒计时持续更新，成熟到点及时核对；购买、播种、领奖和手动刷新仍立即同步。",
+    "钱包同步不再重复刷新整个页面，输入价格或数量时保持焦点与文字。",
+    "迁服时保留原待确认操作编号，重新核对身份后继续处理，避免重复提交。"
+  ],
+  "artifacts": [
+    {
+      "platform": "android",
+      "file": "xiuxian-wendao-1.4.4+13-android-arm64.apk",
+      "bytes": 35542883,
+      "sha256": "496bf7a6132d42f34a9be418fe9567e88cc4a4a4409f6136e6023bdbad0a875f"
+    },
+    {
+      "platform": "ios",
+      "file": "xiuxian-wendao-1.4.4+13-ios-unsigned.ipa",
+      "bytes": 22704477,
+      "sha256": "bc00687d27e85173fb4e409b4389cde9dba3e3480aa6950499d39a239424ab35"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.4+13-macos-universal.dmg",
+      "bytes": 37739935,
+      "sha256": "fa3f12e3145f9b12d664ee7433746544832f9723e77dd84dd9157c814d8cee56"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.4+13-macos-universal.zip",
+      "bytes": 34675863,
+      "sha256": "e8764f77706937ef8a26527410995f0b7ab48d8e506a68a4e16cca91c48785d3"
+    },
+    {
+      "platform": "windows",
+      "file": "xiuxian-wendao-1.4.4+13-windows-x64-portable.zip",
+      "bytes": 28748051,
+      "sha256": "2a06f729c289b3f9c303209f2f3ccfc5cca604eadd367259db36696ce7352579"
+    }
+  ]
+}
