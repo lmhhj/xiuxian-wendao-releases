@@ -1,0 +1,60 @@
+{
+  "name": "修仙问道",
+  "version": "1.4.6+15",
+  "app_build": 15,
+  "tag": "v1.4.6+15",
+  "prepared_at": "2026-11-27",
+  "bundle_id": "com.lmhhj.xiuxianwendao",
+  "platforms": {
+    "android": "Android 7.0+ / arm64",
+    "ios": "iOS 15+ / arm64 / 安装前需签名",
+    "macos": "macOS 12+ / Intel 与 Apple Silicon 通用 / 临时签名",
+    "windows": "Windows 10 1809+、Windows 11 / x64 / EXE 安装器与便携 ZIP"
+  },
+  "changes": [
+    "道祖问道新增五道参悟、战报复盘和专属成就。诸天试炼四境各 20 关，装备、功法与主骑搭配会影响战斗结果。",
+    "掌中世界可建造、收徒、展示奇观并开放拜访。界源可从试炼、药园和历练获取，每天最多 24 点。",
+    "天道大劫在太乙开启。全服修复阵眼、破除魔甲、迎战域外天魔，可以按战力出战或提交物资。",
+    "炼器阁和灵兽录新增兵器锻造、法衣与护符强化。满级灵兽可强化至五阶，解锁变异形态、觉醒天赋和进化演出。",
+    "历练和炼丹调整高阶丹药药效、配方和灵根加成，修复购买材料后靠炼丹回收赚差价的问题。单人历练缩短并可确认取消，双人秘境每天可参加五场。",
+    "药园、宗门和交易支持购买土地、施肥和安装防盗网，调高宗门俸禄，支持按数量购买挂单。新增试道论剑、论剑周榜、道友搜索和口令兑换。"
+  ],
+  "artifacts": [
+    {
+      "platform": "android",
+      "file": "xiuxian-wendao-1.4.6+15-android-arm64.apk",
+      "bytes": 39418967,
+      "sha256": "45cb1ab444dbfea2648c5578d134a7a7dc15f1a9bbbd8af86e90384c671b9995"
+    },
+    {
+      "platform": "ios",
+      "file": "xiuxian-wendao-1.4.6+15-ios-unsigned.ipa",
+      "bytes": 26507841,
+      "sha256": "a87f71bbfa5b317eab982df3922d349be91f329e9e40ebc671af33eeece46a99"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.6+15-macos-universal.dmg",
+      "bytes": 41630710,
+      "sha256": "b41e36b9b7edd68dbd47f557f2015c6ddd61e12bf69710371275325c6ad5f7ab"
+    },
+    {
+      "platform": "macos",
+      "file": "xiuxian-wendao-1.4.6+15-macos-universal.zip",
+      "bytes": 38480093,
+      "sha256": "2fea501a4ba7096fe1d141b1b201d12d61f85411089f0a9f5eeece4a39d5c5c0"
+    },
+    {
+      "platform": "windows",
+      "file": "xiuxian-wendao-1.4.6+15-windows-x64-setup.exe",
+      "bytes": 29873069,
+      "sha256": "869a91c61d21bfe1b2572c3cf2d35f942afa721292b0baf6273d255f6b905e85"
+    },
+    {
+      "platform": "windows",
+      "file": "xiuxian-wendao-1.4.6+15-windows-x64-portable.zip",
+      "bytes": 32488666,
+      "sha256": "3020c074f67f44a1c0f8a3260726ab82ab07a8fe4b38f1db5a597b25bd6ecefc"
+    }
+  ]
+}
