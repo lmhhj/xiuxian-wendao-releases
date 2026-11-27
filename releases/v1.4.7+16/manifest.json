@@ -14,47 +14,48 @@
   "changes": [
     "邀请码和道号重开服使用一次性邀请码注册。账号与道号分别校验重名，每个账号可创建一名角色。",
     "五灵根入世重开服的新角色统一从五灵根开始。后续可通过灵根洗炼改变资质。",
-    "历练和养成所有单人地图共用每天十次额度，每次十五分钟。静修跨境界成长放缓，小境界战力提升增加。",
-    "成就观览进入「道我」查看 72 枚原创勋章及解锁进度。每枚勋章可领 100 灵石，可在洞府展示一枚勋章的称号和解锁总数。",
+    "历练和养成所有单人地图共用每天十次额度，每次十五分钟。重开服静修从筑基起每跨一个大境界按 2 倍成长，小境界战力提升增加。",
+    "成就观览进入「道我」查看 90 枚原创勋章及解锁进度，已修正勋章边缘的残留图案。每枚勋章可领 100 灵石，可在洞府展示一枚勋章的称号和解锁总数。",
     "每日悬赏新增药园采收、双人秘境、论道获胜、宗门任务和双修。论道日结第一名为 1,000 灵石，开创宗门需 50,000 灵石。",
-    "丹房和灵根同种丹药成功炼成十份永久增加一个百分点的成功率。雷灵根的突破加成调整为十二个百分点。"
+    "丹房和灵根同种丹药成功炼成十份永久增加一个百分点的成功率。雷灵根的突破加成调整为十二个百分点。",
+    "突破和渡劫结丹初期保留原成功率，从结丹中期开始逐步增加难度。大境界越高，破境基础成功率越低。"
   ],
   "artifacts": [
     {
       "platform": "android",
       "file": "xiuxian-wendao-1.4.7+16-android-arm64.apk",
-      "bytes": 40777196,
-      "sha256": "f9a123ec522d1e0de4ff5f3c90ae33c884c30349e1c1eda66c0e213eff1ed2cd"
+      "bytes": 42115538,
+      "sha256": "a28547f1949d1b01e2c6fe602a7513396a1b9cd18048e85afe0b0aea41e4b383"
     },
     {
       "platform": "ios",
       "file": "xiuxian-wendao-1.4.7+16-ios-unsigned.ipa",
-      "bytes": 27770257,
-      "sha256": "56845c242ea7751405994dbd3e0123bc4feeb2a56f9e618e46af03723c0f5e69"
+      "bytes": 29112199,
+      "sha256": "0ce8f575238581b757dd530a50d1e41f87e8b16d5036a4990367167b38e2745d"
     },
     {
       "platform": "macos",
       "file": "xiuxian-wendao-1.4.7+16-macos-universal.dmg",
-      "bytes": 42852413,
-      "sha256": "55327bcaeb8a3bfddcd312669723ee6bc64f3073c223643bb878e2a9beb895b0"
+      "bytes": 44138387,
+      "sha256": "a13e22b4de845306925ec661faf9f69baa3fd80d75c4fa5a6bce9195175ddc45"
     },
     {
       "platform": "macos",
       "file": "xiuxian-wendao-1.4.7+16-macos-universal.zip",
-      "bytes": 39801207,
-      "sha256": "5658585b77206ba06bd36bbec0203a1239f532357057919ff60307b82bd1b09c"
+      "bytes": 41153097,
+      "sha256": "15898ca974c2afcfd60e9d5fc7b7ba1486ef78baf4ebdc7de3be4043e2bf992d"
     },
     {
       "platform": "windows",
       "file": "xiuxian-wendao-1.4.7+16-windows-x64-setup.exe",
-      "bytes": 31099834,
-      "sha256": "6ec99b119eb67f2e150daa7c4418c05963eef75cb0c9048fd3d34f7ab0186838"
+      "bytes": 32434334,
+      "sha256": "c4038dd03bc2dc0fc8a4a9152d27a934e6b36585028ce6dfdde120386c4dbfc1"
     },
     {
       "platform": "windows",
       "file": "xiuxian-wendao-1.4.7+16-windows-x64-portable.zip",
-      "bytes": 33732602,
-      "sha256": "80c5e77ab4daebace49f7105e19e3d5ec0a593562afaff1d169875c2d2caabe5"
+      "bytes": 35071150,
+      "sha256": "b912626aa3c305cc19f1deb46a6b42ce9f96b0af970afb0246bf6f716c1ec271"
     }
   ]
 }
