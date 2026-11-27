@@ -1,0 +1,6 @@
+2aa8417972fc2d085ead678282e818cffd98b3850b23a728f2714f2bcbbd6e6e  xiuxian-wendao-1.4.5+14-android-arm64.apk
+15d15f71f0fd6106ffaefa511b5c7d53ca7ccb5e418827ed1fb5d09aa153a3ca  xiuxian-wendao-1.4.5+14-ios-unsigned.ipa
+a19ce00d79f866b27864fa25bda9982e3db3bf1db120502a204b2b93e2832650  xiuxian-wendao-1.4.5+14-macos-universal.dmg
+3ca4d2eacb92860b99ed0ca194caf6e2a0125c9003ab15cbee74bb7f80b1ce26  xiuxian-wendao-1.4.5+14-macos-universal.zip
+b39626172b223d608b2fe584989e853063178a5a45cb38b66309f98e431d3dec  xiuxian-wendao-1.4.5+14-windows-x64-setup.exe
+8e773ea4ce54ca679160732e10a30e96e1d8c522ede85875d7c42716fea5de4a  xiuxian-wendao-1.4.5+14-windows-x64-portable.zip
